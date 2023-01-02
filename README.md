@@ -354,10 +354,10 @@
 
 我目前的生活追踪系統利用Things 3、Notion、Evernote 和 Asana 進行詳細的每日、每週、每月和每年的跟踪、項目管理、筆記記錄、資源數據庫和待辦事項管理。對某些人來說有點矯枉過正，但如果沒有它，我很容易分心和偏離軌道。根據去年的要求，如果你想複製它們，下面是使用我製作的概念模板詳細介紹我的系統的視頻：
 
-🎥 每日追踪器 [模板](https://gustin.notion.site/14029e9168c449ecb22d47c95e9c4974?v=62ff87e91abf4f43ae9a3a789805651e)
-🎥 每週回顧 [模板](https://gustin.notion.site/8b69e3abd4a8415c89e77789dde98966?v=6b2692bd59454516b057ea2ce8d5b815)
-🎥 月度回顧/目標 [模板](https://gustin.notion.site/January-Goals-2022-Template-84dd3bc9d47843fe8f65fb5f56809b95)
-🎥 年度目標 [模板](https://gustin.notion.site/a3c42302bf1240f69de8e2dd09a211af?v=14199b4a6ae04c3ca2f829a73a49d00a)
+- 🎥 每日追踪器 [模板](https://gustin.notion.site/14029e9168c449ecb22d47c95e9c4974?v=62ff87e91abf4f43ae9a3a789805651e)
+- 🎥 每週回顧 [模板](https://gustin.notion.site/8b69e3abd4a8415c89e77789dde98966?v=6b2692bd59454516b057ea2ce8d5b815)
+- 🎥 月度回顧/目標 [模板](https://gustin.notion.site/January-Goals-2022-Template-84dd3bc9d47843fe8f65fb5f56809b95)
+- 🎥 年度目標 [模板](https://gustin.notion.site/a3c42302bf1240f69de8e2dd09a211af?v=14199b4a6ae04c3ca2f829a73a49d00a)
 
 如果您對我的系統有任何疑問，請隨時通過 [Twitter](http://twitter.com/dranthonygustin) 或 [IG](http://twitter.com/dranthonygustin) 上的 DM 直接與我聯繫，或發送電子郵件至 [ag@dranthonygustin.com](ag@dranthonygustin.com)
 
