@@ -13,8 +13,11 @@
 安東尼古斯汀的年度回顧
 
 問題/評論/反饋：[ag@dranthonygustin.com](ag@dranthonygustin.com)
+
 註冊我的時事報導：[dranthonygustin.com/thefeed](http://dranthonygustin.com/thefeed)
+
 跟隨：[Twitter](http://twitter.com/dranthonygustin)/[Instagram](http://instagram.com/dranthonygustin)
+
 最後編輯：12/22/2022
 
 歡迎閱讀我的 2022 年度回顧規劃文件！ 🎉
